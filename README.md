@@ -1,6 +1,6 @@
 # TopicTurn
 
-TopicTurn is a reusable, browser-based tool for interactive speaking sessions, workshops, training events, and Toastmasters Table Topics.
+TopicTurn is a reusable, browser-based tool for interactive speaking sessions, workshops, training events, and facilitated discussions.
 
 ## Live site
 
